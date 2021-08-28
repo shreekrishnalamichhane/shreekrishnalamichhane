@@ -16,13 +16,12 @@ I'm Shree Krishna a Computer Science Student. I am Co-Founder and Event Manager 
 
 [![PHP Badge](https://img.shields.io/badge/-My_Website-F0DB4F?style=for-the-badge&labelColor=white&color=7289da)](https://shreekrishnalamichhane.com.np)
 
-- 🔭 I’m currently working on nothing😎.
+- 🔭 I’m currently working on nothing 😎.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🔬 Always ready to collaborate for Dev Experiments.
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge".
-- ⚡ Fun fact: I play games. Do you ??.
-- 🥅 2020 Goals: Be away from COVID.
-- 🥅 2021 Goals: Travel as much as I can.
+- 🥅 2021 Goals: Be away from COVID.
+- 🥅 2022 Goals: Travel as much as I can.
 
 #### Top Technologies
 
