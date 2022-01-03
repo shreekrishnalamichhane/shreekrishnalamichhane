@@ -12,11 +12,11 @@ I'm Shree Krishna a Computer Science Student. I am Co-Founder and Event Manager 
 
 <br>
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/shreekrishnalamichhane2056/)](https://www.facebook.com/shreekrishnalamichhane2056/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/SKrishnaLamichhane) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/me_shreekrishna)](https://twitter.com/me_shreekrishna) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-krishna-lamichhane-710645191) [![Instagram Badge](https://img.shields.io/badge/-Pinterest-e84393?style=flat&labelColor=e84393&logo=pinterest&logoColor=white)](https://www.pinterest.com/shreekrishnalamichhane/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:uniksk123@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA6N7GrxN2QuanBiOMVxw-g)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/me_shreekrishna)](https://twitter.com/me_shreekrishna) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-krishna-lamichhane-710645191) [![Instagram Badge](https://img.shields.io/badge/-Pinterest-e84393?style=flat&labelColor=e84393&logo=pinterest&logoColor=white)](https://www.pinterest.com/shreekrishnalamichhane/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:uniksk123@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA6N7GrxN2QuanBiOMVxw-g)
 
 [![PHP Badge](https://img.shields.io/badge/-My_Website-F0DB4F?style=for-the-badge&labelColor=white&color=7289da)](https://shreekrishnalamichhane.com.np)
 
-- 🔭 I’m currently working on nothing 😎.
+- 🔭 I’m currently working as freelancer 😎.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🔬 Always ready to collaborate for Dev Experiments.
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge".
